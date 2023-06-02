@@ -5,7 +5,6 @@ import autobind from 'autobind-decorator';
 import { getLogger } from '../logging';
 import {ITransport} from '../interface';
 
-
 const log = getLogger('dcrf.transports.websocket');
 
 
